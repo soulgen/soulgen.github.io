@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.telkomsel.cloudmax",
+    "sha256_cert_fingerprints":
+    ["03:FC:AB:D7:6C:44:7C:D2:0E:4A:DD:5F:FB:10:7C:C3:40:DC:71:15:63:6C:2B:5E:A8:C4:8D:7B:F4:91:83:37"]
+  }
+}]
